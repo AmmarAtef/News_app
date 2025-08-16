@@ -1,5 +1,7 @@
 package com.example.newsapp.util
-
+// To use the NewsAPI, you need an API key.
+// Get your key by signing up at: https://newsapi.org/
+//check readme file for more details
 class Constants {
     companion object {
         const val BASE_URL = "https://newsapi.org/v2/"

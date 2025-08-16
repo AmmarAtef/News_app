@@ -6,6 +6,12 @@ Fetches news from the [News API](https://newsapi.org/) and caches the results fo
 Supports searching for news articles.
 Allows browsing news by different categories.
 
+### Setup
+To run this project, you’ll need a **NewsAPI key**:  
+1. Sign up at [https://newsapi.org/](https://newsapi.org/) and generate your API key.  
+2. Add your key to the project (e.g., in `local.properties` or your environment variables). 
+3. Requests per day: Limited to 100 requests/day on the free plan
+
 
 
 ## Libraries \& Technologies Used
